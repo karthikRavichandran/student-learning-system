@@ -1,0 +1,216 @@
+[
+  {
+    "Topics": [
+      "General",
+      "HW1",
+      "HW2",
+      "HW3",
+      "HW4",
+      "Midterm1",
+      "Midterm2",
+      "Final"
+    ],
+    "Posts": [
+      {
+        "Title": "General Course Questions",
+        "Topic": "General",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-09-10 14:00",
+        "Body": "Hello classmates! As we kick off the semester, does anyone have general questions about the course content, schedule, or expectations? Let's use this space to help each other out!",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "Thanks for starting this, Alice! I'm curious about the balance between theory and application in the course. How much emphasis will be placed on real-world problems?",
+            "Post Date": "2023-09-10 15:30"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Great question, Bob! We'll strike a balance between theory and application throughout the course. The aim is to provide a solid theoretical foundation while emphasizing practical applications of calculus concepts. Feel free to ask for specific examples or clarification as we progress!",
+            "Post Date": "2023-09-10 16:45"
+          }
+        ]
+      },
+      {
+        "Title": "Homework 1 Tips and Tricks",
+        "Topic": "HW1",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-09-20 12:30",
+        "Body": "Hey everyone! I'm working on Homework 1 and wanted to exchange tips and tricks. Any specific strategies or resources you found helpful for tackling the problems?",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "For problem 3, breaking down the steps of the solution before diving in helped me. It's a bit tricky, but with a systematic approach, it becomes more manageable.",
+            "Post Date": "2023-09-20 14:00"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I found Khan Academy's videos on related rates quite helpful. They provide clear explanations and walk through examples that reinforce the concepts.",
+            "Post Date": "2023-09-20 15:15"
+          }
+        ]
+      },
+      {
+        "Title": "Midterm 1 Study Group Formation",
+        "Topic": "Midterm1",
+        "Poster": "Bob",
+        "Visibility": "Public",
+        "Post Date": "2023-10-10 11:45",
+        "Body": "Greetings classmates! Midterm 1 is around the corner, and I thought it might be helpful to form study groups. Anyone interested in joining a group to review concepts and solve practice problems together?",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Count me in, Bob! I'm up for collaborative study sessions. Let's set a schedule that works for everyone.",
+            "Post Date": "2023-10-10 13:00"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Fantastic initiative, Bob and Alice! Collaborative studying can enhance your understanding. Feel free to use this forum to coordinate your study group activities.",
+            "Post Date": "2023-10-10 14:30"
+          }
+        ]
+      },
+      {
+        "Title": "Final Exam Preparation Strategies",
+        "Topic": "Final",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-11-15 15:30",
+        "Body": "Hello everyone! As we approach the end of the semester, does anyone have effective strategies for preparing for the final exam? Any recommended resources or study approaches?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "I find creating a summary of key concepts and practicing with a variety of problems from different sections helps me consolidate my understanding. How about you, Carol?",
+            "Post Date": "2023-11-15 16:45"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Excellent advice, Bob! Carol, feel free to explore different study techniques and find what works best for you. Don't hesitate to reach out if you have specific questions or need clarification on any topics.",
+            "Post Date": "2023-11-15 18:00"
+          }
+        ]
+      },
+      {
+        "Title": "HW2 Clarification",
+        "Topic": "HW2",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-09-25 10:15",
+        "Body": "Hello classmates! I'm working on Homework 2 and could use some clarification on question 4. Any insights or approaches you found helpful?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "I had a similar question, Alice! Let's break down question 4 together. I think the key is to focus on...",
+            "Post Date": "2023-09-25 11:30"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Great collaboration, Alice and Bob! Remember to generalize your approach for similar problems. It's crucial to grasp the underlying concepts. Keep up the good work!",
+            "Post Date": "2023-09-25 12:45"
+          }
+        ]
+      },
+      {
+        "Title": "HW3 Solution Sharing",
+        "Topic": "HW3",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-10-05 14:00",
+        "Body": "Hey folks! I've completed Homework 3 and wanted to compare solutions. Anyone interested in discussing the answers or sharing different approaches?",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Sure, Carol! I'm currently reviewing question 2. Let's create a thread for each question to keep things organized.",
+            "Post Date": "2023-10-05 15:30"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "Count me in, Alice and Carol! I ",
+            "Post Date": "2023-10-05 16:45"
+          }
+        ]
+      },
+      {
+        "Title": "Midterm 2 Concept Clarification",
+        "Topic": "Midterm2",
+        "Poster": "Bob",
+        "Visibility": "Public",
+        "Post Date": "2023-11-05 12:30",
+        "Body": "Hello classmates! I'm reviewing concepts for Midterm 2 and could use some clarification on the integration techniques covered in the last few weeks. Any tips or resources you found helpful?",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "I struggled with that too, Bob! Khan Academy has some excellent tutorials on integration techniques. They break down the steps and provide practice problems.",
+            "Post Date": "2023-11-05 14:00"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Thanks for the recommendation, Alice! Bob, make sure to practice different types of integration problems to reinforce your understanding. If you have specific questions, feel free to ask!",
+            "Post Date": "2023-11-05 15:15"
+          }
+        ]
+      },
+      {
+        "Title": "HW4 Strategy Discussion",
+        "Topic": "HW4",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-11-20 13:30",
+        "Body": "Hi everyone! I just started working on Homework 4, and it looks challenging. Any strategy or advice on how to approach the problems?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "I'm on the same boat, Carol! For question 2, I'm considering using integration by parts. What about you?",
+            "Post Date": "2023-11-20 15:00"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "Integration by parts sounds like a solid approach, Bob! I'm tackling question 3 first. Let's share our progress and insights.",
+            "Post Date": "2023-11-20 16:15"
+          }
+        ]
+      },
+      {
+        "Title": "Final Exam Logistics Inquiry",
+        "Topic": "Final",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-12-01 10:45",
+        "Body": "Hello Professor! As we approach the final exam, could you provide details on the logistics? Will it be an online or in-person exam, and are there any specific software requirements?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "I'm curious about this too, Professor! Will there be any practice exams or guidelines to help us prepare for the online format?",
+            "Post Date": "2023-12-01 12:00"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Great questions, Alice and Bob! The final exam will be an online proctored exam. Make sure to have a stable internet connection and a webcam. I'll provide detailed instructions and consider organizing a practice session. Stay tuned!",
+            "Post Date": "2023-12-01 13:30"
+          }
+        ]
+      },
+      {
+        "Title": "Course Reflection and Feedback",
+        "Topic": "General",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-12-15 14:20",
+        "Body": "As the semester concludes, I wanted to hear your reflections on the course. What aspects did you find most beneficial, and do you have any suggestions for improvement? Let's share our thoughts!",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "This course challenged me in the best way possible! The balance between theory and application kept things engaging. I'd love to see more real-world examples in future courses.",
+            "Post Date": "2023-12-15 15:45"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Thank you, Bob! I appreciate your feedback. It's valuable to hear your perspectives. If anyone else has reflections or suggestions, feel free to share. Have a wonderful break!",
+            "Post Date": "2023-12-15 17:00"
+          }
+        ]
+      }
+    ]
+  }
+]

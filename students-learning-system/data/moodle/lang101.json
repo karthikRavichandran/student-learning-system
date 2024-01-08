@@ -1,0 +1,54 @@
+{
+    "Course Title": "Introduction to Old English",
+    "Course Syllabus": "# Course Title: LANG 101 - Introduction to Old English\n## Course Description\nThis course serves as an introduction to Old English, the earliest form of the English language spoken and written in parts of what are now England and southern Scotland between the 5th and 11th centuries. Students will explore the linguistic, literary, and cultural aspects of Old English, gaining a foundational understanding of the language's grammar, vocabulary, and historical context.\n## Learning Objectives\n1. **Linguistic Competence:** Develop a basic understanding of Old English grammar, syntax, and vocabulary.\n2. **Literary Analysis:** Analyze and interpret selected Old English texts, including poetry and prose.\n3. **Cultural Context:** Gain insight into the historical and cultural background of the Anglo-Saxon period.\n4. **Translation Skills:** Acquire the ability to translate simple Old English passages into modern English.\n5. **Critical Thinking:** Develop critical thinking skills through the examination of linguistic and literary concepts.\n## Texts\n1. **\"Beowulf\"** (Author unknown, translated by Seamus Heaney)\n2. **\"A Guide to Old English\"** by Bruce Mitchell and Fred C. Robinson\n3. Selected Old English Poems and Prose\n## Grading\n- **Homework:** 30%\n- **Midterm Exam:** 20%\n- **Final Exam:** 30%\n- **Research Project:** 20%\n## Weekly Schedule\n**Week 1-2: Introduction to Old English**\n- Historical and cultural context\n- Overview of Old English grammar and pronunciation\n**Week 3-5: Old English Vocabulary and Nouns**\n- Vocabulary building exercises\n- Introduction to Old English nouns and noun declensions\n**Week 6-8: Verbs and Syntax**\n- Verbal conjugations and tenses\n- Sentence structure and syntax in Old English\n**Week 9-11: Literary Analysis**\n- Close reading of Old English poetry\n- Exploration of poetic devices in Old English literature\n**Week 12-14: Prose and Historical Texts**\n- Reading and analysis of Old English prose texts\n- Historical documents and their significance\n**Week 15: Final Exam Review**\n## Research Project\nStudents will choose a topic related to Old English language, literature, or culture for a research project. The project will include a written paper and an oral presentation.\n## Course Policies\n- Regular attendance is expected.\n- Late assignments will be penalized.\n- Plagiarism will not be tolerated and will result in severe consequences.\n## Note\nThis syllabus is subject to change at the discretion of the instructor. Students will be notified of any modifications in advance.",
+    "Grade Breakdown": {
+      "Homework": 0.3,
+      "Midterm": 0.2,
+      "Final": 0.3,
+      "Research Project": 0.2
+    },
+    "Enrolled Students": ["1001", "1002", "1003"],
+    "Assignments": {
+      "HW1": {
+        "Title": "Vocabulary Building Exercise",
+        "Description": "To reinforce and expand your Old English vocabulary.",
+        "Due Date": "2023-09-30"
+      },
+      "HW2": {
+        "Title": "Translation Practice - Beowulf Excerpt",
+        "Description": "To enhance your translation skills and understanding of Old English syntax.",
+        "Due Date": "2023-10-30"
+      },
+      "HW3": {
+        "Title": "Literary Analysis of Old English Poetry",
+        "Description": "To develop your skills in literary analysis and interpretation of Old English poetry.",
+        "Due Date": "2023-12-15"
+      }
+    },
+    "Grades": {
+      "HW1": {
+        "1001": 0.95,
+        "1002": 0.75,
+        "1003": 0.85
+      },
+      "HW2": {
+        "1001": 1,
+        "1002": 0.83,
+        "1003": 0.84
+      },
+      "HW3": {},
+      "Midterm": {
+        "1001": 0.9,
+        "1002": 0.5,
+        "1003": 0.8
+      }
+    },
+    "Exams": {
+      "Midterm": {
+        "Date": "2023-11-01"
+      },
+      "Final": {
+        "Date": "2023-12-20"
+      }
+    }
+  }

@@ -1,0 +1,258 @@
+{
+    "Topics": [
+      "General",
+      "HW1",
+      "HW2",
+      "HW3",
+      "Midterm",
+      "Final",
+      "Research Project"
+    ],
+    "Posts": [
+      {
+        "Title": "Missing Attendance 2023-10-09",
+        "Topic": "General",
+        "Poster": "Alice",
+        "Visibility": "Private",
+        "Post Date": "2023-10-09 13:55",
+        "Body": "Dear Professor, I am not feeling well today. May I be excused from class today?",
+        "Instructor Reply": "Yes! I hope you feel better soon.",
+        "Instructor Reply Date": "2023-10-09 15:23",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Thank you so much!",
+            "Post Date": "2023-10-09 16:00"
+          }
+        ]
+      },
+      {
+        "Title": "Clarification on Homework 1 Question 2",
+        "Topic": "HW1",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-09-15 10:30",
+        "Body": "Hello everyone, I'm having trouble understanding the wording of question 2 in Homework 1. Can someone provide some clarification or guidance?",
+        "Instructor Reply": "Certainly, Alice! I'll be happy to clarify. Could you specify which part of the question is causing confusion?",
+        "Instructor Reply Date": "2023-09-15 11:15",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "Alice, I think I can help. Let's break down the question together. Are you stuck on the initial setup or a specific step?",
+            "Post Date": "2023-09-15 12:00"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "Thank you both! I was struggling with the initial setup, but Bob's explanation clarified things for me.",
+            "Post Date": "2023-09-15 13:30"
+          }
+        ]
+      },
+      {
+        "Title": "HW2 Deadline Extension Request",
+        "Topic": "HW2",
+        "Poster": "Carol",
+        "Visibility": "Private",
+        "Post Date": "2023-09-28 16:45",
+        "Body": "Dear Professor, I am facing unexpected personal challenges this week and am finding it difficult to complete Homework 2 on time. Could I request an extension?",
+        "Instructor Reply": "Of course, Carol. I understand that life can be unpredictable. I'll grant you a one-day extension. Make sure to submit it by the new deadline.",
+        "Instructor Reply Date": "2023-09-28 18:00",
+        "Followups": [
+          {
+            "Poster": "Carol",
+            "Body": "Thank you so much for your understanding, Professor!",
+            "Post Date": "2023-09-28 19:30"
+          }
+        ]
+      },
+      {
+        "Title": "Midterm Exam Study Group",
+        "Topic": "Midterm",
+        "Poster": "Bob",
+        "Visibility": "Public",
+        "Post Date": "2023-10-15 14:20",
+        "Body": "Hey classmates! Is anyone interested in forming a study group for the upcoming midterm exam? We can review concepts, solve problems together, and share insights.",
+        "Instructor Reply": "Great initiative, Bob! I encourage collaboration. Feel free to organize a study group and use the forum to coordinate meetings and discussions.",
+        "Instructor Reply Date": "2023-10-15 15:45",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Count me in, Bob! Let's schedule our first meeting for this Friday afternoon?",
+            "Post Date": "2023-10-15 16:30"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "Excellent, Alice! I'll create a shared document for us to organize our study materials. Looking forward to it!",
+            "Post Date": "2023-10-15 17:15"
+          }
+        ]
+      },
+      {
+        "Title": "Final Exam Preparation Tips",
+        "Topic": "Final",
+        "Poster": "Carol",
+        "Visibility": "Public",
+        "Post Date": "2023-11-20 11:10",
+        "Body": "Hello everyone! As we approach the final exam, does anyone have any tips or strategies for effective preparation? How are you all planning to review the material?",
+        "Instructor Reply": "Great question, Carol! I recommend reviewing the key concepts from each section, practicing with a variety of problems, and taking advantage of any review sessions. Remember to pace yourself and prioritize understanding over rote memorization.",
+        "Instructor Reply Date": "2023-11-20 12:30",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Thanks for the tips, Professor! I'll make sure to incorporate those into my study plan.",
+            "Post Date": "2023-11-20 13:45"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I find creating a study schedule and breaking down topics into manageable chunks helps a lot. Does anyone want to organize a final exam study session?",
+            "Post Date": "2023-11-20 14:30"
+          }
+        ]
+      },
+      {
+        "Title": "Research Project Topic Selection",
+        "Topic": "Research Project",
+        "Poster": "Alice",
+        "Visibility": "Private",
+        "Post Date": "2023-11-25 09:00",
+        "Body": "Hello Professor, I'm having trouble finalizing a topic for the research project. Do you have any suggestions or guidelines to help me narrow down my choices?",
+        "Instructor Reply": "Certainly, Alice! Consider topics that align with your interests and allow for in-depth exploration. I'll provide a list of suggested topics to guide you. Let's also discuss your preferences during office hours.",
+        "Instructor Reply Date": "2023-11-25 10:30",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Thank you, Professor! I'll stop by during your office hours to discuss my ideas further.",
+            "Post Date": "2023-11-25 11:45"
+          }
+        ]
+      },
+      {
+        "Title": "HW3 Solution Discussion",
+        "Topic": "HW3",
+        "Poster": "Bob",
+        "Visibility": "Public",
+        "Post Date": "2023-09-18 15:15",
+        "Body": "Hey everyone! I've been working on Homework 3, and I'm curious to compare answers and approaches with fellow students. Anyone up for discussing the solutions?",
+        "Instructor Reply": "Absolutely, Bob! Discussing solutions with your peers is a great way to reinforce your understanding. Just remember to respect the academic honesty policy and avoid sharing complete solutions.",
+        "Instructor Reply Date": "2023-09-18 16:30",
+        "Followups": [
+          {
+            "Poster": "Carol",
+            "Body": "I'm interested, Bob! I'll post my approach to question 4 shortly.",
+            "Post Date": "2023-09-18 17:00"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "Count me in too! Let's create a dedicated thread for each question to keep things organized.",
+            "Post Date": "2023-09-18 18:00"
+          }
+        ]
+      },
+      {
+        "Title": "Homework Grading Inquiry",
+        "Topic": "HW2",
+        "Poster": "Carol",
+        "Visibility": "Private",
+        "Post Date": "2023-10-05 11:45",
+        "Body": "Hello Professor, I noticed a discrepancy in the grading of Homework 2. It seems that a portion of my submission may not have been considered. Could you please review and clarify the grading for question 3?",
+        "Instructor Reply": "Certainly, Carol. I apologize for any oversight. I will review your submission for question 3 promptly and provide feedback. Thank you for bringing this to my attention.",
+        "Instructor Reply Date": "2023-10-05 13:00",
+        "Followups": [
+          {
+            "Poster": "Carol",
+            "Body": "Thank you, Professor! I appreciate your prompt response.",
+            "Post Date": "2023-10-05 14:30"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "I had a similar question about question 3. Thanks for addressing this, Carol!",
+            "Post Date": "2023-10-05 15:15"
+          }
+        ]
+      },
+      {
+        "Title": "Final Exam Logistics",
+        "Topic": "Final",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-11-30 09:30",
+        "Body": "Hello Professor, could you provide details on the logistics for the final exam? Will it be an online exam, and do we need any specific software or tools?",
+        "Instructor Reply": "Good question, Alice! The final exam will be an online proctored exam. You'll need a stable internet connection and a webcam. Please make sure to install the designated exam software, and I'll provide more detailed instructions closer to the exam date.",
+        "Instructor Reply Date": "2023-11-30 10:45",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "Thanks for the information, Professor! Will there be a practice session or any mock exams to help us familiarize ourselves with the online exam setup?",
+            "Post Date": "2023-11-30 11:30"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "I appreciate the clarification, Professor! Looking forward to the exam guidelines.",
+            "Post Date": "2023-11-30 12:15"
+          }
+        ]
+      },
+      {
+        "Title": "End-of-Term Feedback",
+        "Topic": "General",
+        "Poster": "Bob",
+        "Visibility": "Public",
+        "Post Date": "2023-12-01 14:20",
+        "Body": "As the term comes to an end, I want to express my appreciation for the course. It's been a challenging but rewarding experience. If anyone has suggestions for improvement or would like to share their thoughts on the course, feel free to post here!",
+        "Instructor Reply": "Thank you, Bob! I'm glad to hear that you found the course rewarding. I'm always open to feedback. Please share any suggestions or insights you have.",
+        "Instructor Reply Date": "2023-12-01 15:45",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "I echo Bob's sentiments! This course has been a great learning experience. I appreciate the clarity of the lectures and the support provided.",
+            "Post Date": "2023-12-01 16:30"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "Agreed! The mix of theory, practical applications, and interactive discussions made the course engaging. Thank you, Professor!",
+            "Post Date": "2023-12-01 17:15"
+          }
+        ]
+      },
+      {
+        "Title": "Debate: The Definition of 'Shall'",
+        "Topic": "General",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-09-20 11:45",
+        "Body": "Hello everyone! I've been pondering over the use of the word 'shall' in Old English texts. It seems to carry different meanings in various contexts. Does anyone have insights or opinions on its definition in the readings we've covered so far?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "That's an interesting point, Alice! I've noticed the ambiguity as well. 'Shall' is sometimes used as a future marker but can also convey obligation or necessity. It would be great to hear theprofessor's take on this!",
+            "Post Date": "2023-09-20 13:15"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Excellent observation, Alice and Bob! The term 'shall' in Old English does indeed present challenges in interpretation. It often serves as a modal verb indicating future events, but its usage can vary based on the context and the author's intent. Let's explore this further. How do you all perceive the different nuances of 'shall' in our readings?",
+            "Post Date": "2023-09-20 14:30"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "I find 'shall' to be more than just a future marker. In certain instances, it appears to express a sense of determination or command, almost like a strong assertion of will. For example, in 'The Wanderer,' the use of 'shall' seems to convey a resolute tone.",
+            "Post Date": "2023-09-20 15:45"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I agree, Carol. In 'The Wanderer' and other texts, 'shall' seems to carry emotional weight, suggesting a commitment or an inevitable course of action. It's fascinating how a single word can encapsulate such complexity.",
+            "Post Date": "2023-09-20 16:30"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "It's intriguing to see how our interpretations align and differ. 'Shall' appears to be a linguistic puzzle that adds depth to the texts. I appreciate the professor's perspective on this. How do you navigate the various meanings, Professor?",
+            "Post Date": "2023-09-20 17:15"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Navigating the nuances of 'shall' requires a careful consideration of the broader context, the tone of the text, and the cultural backdrop of the time. While it often denotes future events, its shades of meaning can range from simple futurity to expressing obligation, determination, or even a sense of destiny. I encourage you to explore specific instances in our readings and share your interpretations. The diversity of perspectives enriches our understanding!",
+            "Post Date": "2023-09-20 18:00"
+          }
+        ]
+      }
+    ]
+  }

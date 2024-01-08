@@ -1,0 +1,51 @@
+{
+    "Assignments": {
+      "Lab1": {
+        "Title": "Heat Transfer in Cooking",
+        "Description": "Conduct experiments to understand the principles of heat transfer in different cooking methods. Prepare a detailed lab report highlighting the physics involved in each cooking technique.",
+        "Due Date": "2023-09-30"
+      },
+      "Lab2": {
+        "Title": "Fluid Dynamics in Sauces",
+        "Description": "Explore the role of fluid dynamics in sauce preparation. Conduct experiments with various sauces to analyze viscosity and flow. Present findings in a comprehensive lab report.",
+        "Due Date": "2023-10-15"
+      },
+      "Project": {
+        "Title": "Physics of Food Innovation",
+        "Description": "Develop a project showcasing an innovative application of physics principles in food preparation. This could include a unique cooking technique, equipment design, or molecular gastronomy concept. Present the project and its scientific basis.",
+        "Due Date": "2023-11-30"
+      }
+    },
+    "Grades": {
+        "Lab1": {
+          "1001": 0.9,
+          "1002": 0.85
+        },
+        "Lab2": {
+          "1001": 0.88,
+          "1002": 0.95
+        },
+        "Project": {
+          "1001": 0.93,
+          "1002": 0.85
+        },
+        "Midterm Exam": {
+          "1001": 0.78,
+          "1002": 0.85
+        },
+        "Final Exam": {
+        },
+        "Attendance": {
+            "1001": 0.00,
+            "1002": 0.50
+        }
+      },
+    "Exams": {
+      "Midterm Exam": {
+        "Date": "2023-10-30"
+      },
+      "Final Exam": {
+        "Date": "2023-12-15"
+      }
+    }
+}

@@ -1,0 +1,21 @@
+credentials:
+  usernames:
+    alice:
+      email: alice@abc.org
+      name: Alice Aardvark
+      password: $2b$12$QKE5rdhxzGNT4Qij6mZT6u1deSA0FTw5WNHoCMA2B96ihdqQh2pJK
+    bob:
+      email: bob@abc.org
+      name: Bob Bird
+      password: $2b$12$fqRFNRNbY8oq9607dyw8lecieENXHfzC7BDD0GEb05y.BsGkh9XnK
+    carol:
+      email: carol@abc.org
+      name: Carol Cat
+      password: $2b$12$HiH1Xi07qPV6UFkaGNKmYe8gwrrKtT5i1uNxcgfwuAcrH8FifinyW
+cookie:
+  expiry_days: 0
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com

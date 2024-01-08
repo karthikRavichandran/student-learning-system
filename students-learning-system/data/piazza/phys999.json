@@ -1,0 +1,202 @@
+{
+    "Topics": [
+      "Lab1",
+      "Lab2",
+      "Project",
+      "Midterm Exam",
+      "Final Exam",
+      "Attendance"
+    ],
+    "Posts": [
+      {
+        "Title": "Comparing Lab1 and Lab2",
+        "Topic": "Lab1",
+        "Poster": "Professor",
+        "Visibility": "Public",
+        "Post Date": "2023-09-15 12:00",
+        "Body": "Greetings students! As we delve into our physics labs, I'd like to open a discussion on the differences and unique aspects of Lab1 and Lab2. Share your insights, observations, and thoughts on how each lab contributes to your understanding of physics.",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Lab1 introduced foundational concepts in classical mechanics. The hands-on experiments with basic laws of motion provided a solid starting point.",
+            "Post Date": "2023-09-15 13:30"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I agree with Alice. Lab1 laid the groundwork, but Lab2 took it up a notch with experiments in electromagnetism and optics. The advanced equipment was mind-blowing!",
+            "Post Date": "2023-09-15 14:45"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "Lab1 and Lab2 are both crucial, Professor. Lab1 builds the essential foundation, and Lab2 expands our horizons. It's like a progression of knowledge and skills.",
+            "Post Date": "2023-09-15 16:00"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Thank you for your insights, Alice, Bob, and Carol! It's fascinating to see how each lab contributes to your understanding. Remember, the labs are designed to complement each other, providing a holistic view of physics.",
+            "Post Date": "2023-09-15 17:15"
+          }
+        ]
+      },
+      {
+        "Title": "Project Excitement!",
+        "Topic": "Project",
+        "Poster": "Professor",
+        "Visibility": "Public",
+        "Post Date": "2023-10-05 14:00",
+        "Body": "Hello physicists! Our upcoming project is a chance for you to explore a topic of interest. Share your thoughts on potential project ideas, and let's discuss the exciting possibilities that lie ahead!",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "I'm considering a project on quantum entanglement. It's a mind-bending concept, and I'm eager to explore its applications and implications.",
+            "Post Date": "2023-10-05 15:30"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "Quantum entanglement sounds intriguing, Alice! I'm leaning towards a project on astrophysics, specifically exploring black hole phenomena. There's so much to unravel there.",
+            "Post Date": "2023-10-05 16:45"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "Great ideas, Alice and Bob! I'm considering a project on renewable energy technologies and their impact on the environment. It's a pressing issue, and I want to contribute to sustainable solutions.",
+            "Post Date": "2023-10-05 18:00"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Wonderful project ideas, Alice, Bob, and Carol! The diversity of topics showcases the breadth of physics. Remember to choose something you're passionate about, and let the exploration begin!",
+            "Post Date": "2023-10-05 19:15"
+          }
+        ]
+      },
+      {
+        "Title": "Midterm Exam Preparation Strategies",
+        "Topic": "Midterm Exam",
+        "Poster": "Professor",
+        "Visibility": "Public",
+        "Post Date": "2023-10-25 12:30",
+        "Body": "Hello class! As we approach the midterm exam, let's discuss strategies for effective preparation. Share your study tips, ask questions, and let's ensure you're ready for success!",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "I find creating a comprehensive study schedule with dedicated time for each topic helps me stay organized. Also, practicing past exam questions is crucial!",
+            "Post Date": "2023-10-25 14:00"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I'm a fan of group study sessions. Collaborating with classmates helps fill in knowledge gaps, and we can quiz each other on key concepts.",
+            "Post Date": "2023-10-25 15:15"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "I create concept maps to visualize the connections between different topics. It helps me see the bigger picture and reinforces my understanding.",
+            "Post Date": "2023-10-25 16:30"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Fantastic strategies, Alice, Bob, and Carol! Each student has a unique approach, so find what works best for you. If you have specific questions or need guidance, don't hesitate to reach out.",
+            "Post Date": "2023-10-25 17:45"
+          }
+        ]
+      },
+      {
+        "Title": "Final Exam Countdown!",
+        "Topic": "Final Exam",
+        "Poster": "Professor",
+        "Visibility": "Public",
+        "Post Date": "2023-11-30 11:45",
+        "Body": "Greetings physicists! With the final exam on the horizon, let's discuss your final preparations. Share your concerns, seek clarification, and let's ensure you're ready to showcase your physics knowledge!",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "I'm struggling with certain concepts related to quantum mechanics. Any recommendations for additional resources or study approaches?",
+            "Post Date": "2023-11-30 13:15"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I'm in the same boat as Alice. Quantum mechanics is challenging. Professor, any specific topics we should prioritize in our final review?",
+            "Post Date": "2023-11-30 14:30"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "I'm confident in most areas, but I could use some extra practice with electromagnetism problems. Any suggested practice sets, Professor?",
+            "Post Date": "2023-11-30 15:45"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Great questions, Alice, Bob, and Carol! For quantum mechanics, focus on understanding key principles rather than memorization. Electromagnetism practice problems from your textbook and additional online resources can reinforce your skills. Keep up the dedicated work, and you'll be well-prepared!",
+            "Post Date": "2023-11-30 17:00"
+          }
+        ]
+      },
+      {
+        "Title": "Attendance Reminder",
+        "Topic": "Attendance",
+        "Poster": "Professor",
+        "Visibility": "Public",
+        "Post Date": "2023-12-15 09:30",
+        "Body": "Hello everyone! As we near the end of the semester, a reminder about the importance of attendance. Attending classes ensures you receive valuable information, engage in discussions, and stay on track with the course material. Let's finish strong!",
+        "Followups": [
+          {
+            "Poster": "Alice",
+            "Body": "Attendance has been crucial for me. The in-class discussions and explanations help reinforce what I learn from the readings and labs.",
+            "Post Date": "2023-12-15 11:00"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "I second that, Alice. Plus, being present in labs allows for a better understanding of the experiments. It's where theory meets practice!",
+            "Post Date": "2023-12-15 12:15"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "Attendance keeps me disciplined and motivated. It's a commitment to my own learning journey. Thanks for the reminder, Professor!",
+            "Post Date": "2023-12-15 13:30"
+          },
+          {
+            "Poster": "Professor",
+            "Body": "Thank you for your commitment, Alice, Bob, and Carol! Your active participation enriches the learning experience for everyone. As we approach the final stretch, let's continue to make the most of our time together!",
+            "Post Date": "2023-12-15 14:45"
+          }
+        ]
+      },
+      {
+        "Title": "The Great Food Debate: Science Edition",
+        "Topic": "General",
+        "Poster": "Alice",
+        "Visibility": "Public",
+        "Post Date": "2023-09-01 12:00",
+        "Body": "Hey food enthusiasts! I've been pondering the scientific superiority of different foods. I firmly believe that avocados are the most scientifically superior food out there. They're packed with healthy fats, vitamins, and minerals. What's your scientifically superior favorite food?",
+        "Followups": [
+          {
+            "Poster": "Bob",
+            "Body": "Avocados are good, Alice, but nothing beats the scientific marvel that is broccoli. It's a powerhouse of nutrients – fiber, vitamins, antioxidants, and even protein. Plus, it's versatile and can be enjoyed in various dishes.",
+            "Post Date": "2023-09-01 13:30"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "While both avocados and broccoli have their merits, my vote goes to blueberries. They're rich in antioxidants, promote brain health, and have numerous other health benefits. The small size hides a nutritional powerhouse!",
+            "Post Date": "2023-09-01 14:45"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "Interesting choices, Bob and Carol! But avocados are like nature's butter, providing a perfect balance of nutrients. The creamy texture and versatility make them a scientific masterpiece!",
+            "Post Date": "2023-09-01 16:00"
+          },
+          {
+            "Poster": "Bob",
+            "Body": "Sure, avocados are creamy, but broccoli's nutrient density is unmatched. It's like a green superhero in the world of vegetables!",
+            "Post Date": "2023-09-01 17:15"
+          },
+          {
+            "Poster": "Carol",
+            "Body": "Blueberries offer a burst of flavor and nutrition in every bite. The antioxidants contribute to overall well-being. It's not just a food; it's a health investment!",
+            "Post Date": "2023-09-01 18:30"
+          },
+          {
+            "Poster": "Alice",
+            "Body": "Broccoli and blueberries have their strengths, but avocados are a complete package. From heart health to skin benefits, they cover it all. It's the ultimate scientifically superior food!",
+            "Post Date": "2023-09-01 19:45"
+          }
+        ]
+      }
+    ]
+  }
